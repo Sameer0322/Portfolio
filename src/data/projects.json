@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Peachy Panda",
+    "imageSrc": "projects/pp.png",
+    "description": "",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "source": "https://github.com/Sameer0322/PeachyPanda"
+  },
+  {
+    "title": "Weather Forecast",
+    "imageSrc": "projects/wf.png",
+    "description": "",
+    "skills": ["HTML","CSS","JS", "WeatherAPI"],
+    "source": "https://github.com/Sameer0322/WeatherForcast"
+  },
+  {
+    "title": "ToDo App",
+    "imageSrc": "projects/td.png",
+    "description": "",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "source": "https://github.com/Sameer0322/ToDo-App"
+  },
+  {
+    "title": "Engagement Analyzer",
+    "imageSrc": "projects/ee.png",
+    "description": "",
+    "skills": ["Supervised Learning", "Python","React"],
+    "source": "https://github.com/Sameer0322/Engagement-Analyzer"
+  },
+  {
+    "title": "Take-a-Talk",
+    "imageSrc": "projects/tat.png",
+    "description": "",
+    "skills": ["MERN Stack", "Socket.IO"],
+    "source": "https://github.com/Sameer0322/Take-a-Talk"
+  },
+  {
+    "title": "Automation with Python",
+    "imageSrc": "projects/awp.png",
+    "description": "",
+    "skills": ["Python","Libraries of Python"],
+    "source": "https://github.com/Sameer0322/Automation-with-Python"
+  }
+]

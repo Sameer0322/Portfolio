@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "JAVA",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "ExpressJS",
+    "imageSrc": "skills/express.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Socket.IO",
+    "imageSrc": "skills/socket.png"
+  },
+  {
+    "title": "Tkinter",
+    "imageSrc": "skills/tk.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "VS Code",
+    "imageSrc": "skills/vs.png"
+  },
+  {
+    "title": "Jupyter",
+    "imageSrc": "skills/jn.png"
+  },
+  {
+    "title": "Numpy",
+    "imageSrc": "skills/np.png"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/pd.png"
+  },
+  {
+    "title": "OpenCV",
+    "imageSrc": "skills/cv.png"
+  },
+  {
+    "title": "TensorFlow",
+    "imageSrc": "skills/tf.png"
+  }
+
+
+
+
+
+]
