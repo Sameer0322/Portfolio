@@ -60,6 +60,14 @@
     "imageSrc": "skills/vs.png"
   },
   {
+    "title": "Netlify",
+    "imageSrc": "skills/nt.png"
+  },
+  {
+    "title": "Render",
+    "imageSrc": "skills/ren.png"
+  },
+  {
     "title": "Jupyter",
     "imageSrc": "skills/jn.png"
   },
@@ -79,9 +87,4 @@
     "title": "TensorFlow",
     "imageSrc": "skills/tf.png"
   }
-
-
-
-
-
 ]
