@@ -4,7 +4,7 @@
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background: linear-gradient(270deg, #000000, #03032e,  #46435a,  #000000);
+  background: linear-gradient(270deg, #000000, #03032e,  #46435a, #03032e,  #000000);
   background-size: 600% 600%;
   animation: bgAnimation 5s ease infinite;
 }
