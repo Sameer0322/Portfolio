@@ -6,7 +6,7 @@
   overflow: hidden;
   background: linear-gradient(270deg, #000000, #03032e, #46435a, #46435a,  #000000);
   background-size: 600% 600%;
-  animation: bgAnimation 10s ease infinite;
+  animation: bgAnimation 5s ease infinite;
 }
 
 @keyframes bgAnimation {
