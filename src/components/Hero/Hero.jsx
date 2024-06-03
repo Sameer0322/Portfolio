@@ -11,9 +11,9 @@ export const Hero = () => {
         <p className={styles.description}>
           A budding Software Developer, having a keen interest in solving problems, learning new concepts and techniques of DSA and developing Websites
         </p>
-        <a href="https://drive.google.com/file/d/1YQP-n1mAANHo1giTkGK2vHU9YEFApvLO/view?usp=sharing" className={styles.contactBtn} target="_blank">
+        {/* <a href="https://drive.google.com/file/d/1YQP-n1mAANHo1giTkGK2vHU9YEFApvLO/view?usp=sharing" className={styles.contactBtn} target="_blank">
           Resume
-        </a>
+        </a> */}
       </div>
       <img
         src={getImageUrl("hero/heroImage.jpg")}
