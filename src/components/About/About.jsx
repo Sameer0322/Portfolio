@@ -16,22 +16,6 @@ export const About = () => {
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
-              <h3>Data Structures and Algorithms</h3>
-              <p>
-                Proficient in solving problems demonstrating strong analytical and coding skills from brute force to optimized approach.
-              </p>
-            </div>
-          </li>
-          <li className={styles.aboutItem}>
-            <div className={styles.aboutItemText}>
-              <h3>Python Programming</h3>
-              <p>
-                Proficient in automation using Python to streamline processes and improve efficiency, scripting and creating automated workflows, reducing manual tasks.
-              </p>
-            </div>
-          </li>
-          <li className={styles.aboutItem}>
-            <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
                 Proficient in frontend development, I have been building responsive and optimized web pages utilizing modern frameworks and technologies.
@@ -46,7 +30,22 @@ export const About = () => {
               </p>
             </div>
           </li>
-          
+          <li className={styles.aboutItem}>
+            <div className={styles.aboutItemText}>
+              <h3>Data Structures and Algorithms</h3>
+              <p>
+                Proficient in solving problems demonstrating strong analytical and coding skills from brute force to optimized approach.
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <div className={styles.aboutItemText}>
+              <h3>Python Programming</h3>
+              <p>
+                Proficient in automation using Python to streamline processes and improve efficiency, scripting and creating automated workflows, reducing manual tasks.
+              </p>
+            </div>
+          </li>          
         </ul>
       </div>
     </section>

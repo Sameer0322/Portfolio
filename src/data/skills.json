@@ -76,23 +76,15 @@
     "imageSrc": "skills/ren.png"
   },
   {
-    "title": "Jupyter",
-    "imageSrc": "skills/jn.png"
+    "title": "Canva",
+    "imageSrc": "skills/c.png"
   },
   {
-    "title": "Numpy",
-    "imageSrc": "skills/np.png"
+    "title": "Lightroom",
+    "imageSrc": "skills/lr.png"
   },
   {
-    "title": "Pandas",
-    "imageSrc": "skills/pd.png"
-  },
-  {
-    "title": "OpenCV",
-    "imageSrc": "skills/cv.png"
-  },
-  {
-    "title": "TensorFlow",
-    "imageSrc": "skills/tf.png"
+    "title": "Sanpseed",
+    "imageSrc": "skills/ss.png"
   }
 ]
