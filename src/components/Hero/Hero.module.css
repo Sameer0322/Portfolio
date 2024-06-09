@@ -33,14 +33,12 @@
   margin-bottom: 52px;
 }
 
-
 .heroImg {
   width: 45%;
   height: auto;
   z-index: 1;
   border-radius: 50%;
   box-shadow: 0 0 8px 8px rgba(253, 252, 252, 1);
-
   animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
@@ -51,11 +49,13 @@
   0% {
     transform: translate(0, 0px);
   }
+
   50% {
     transform: translate(0, 10px);
   }
+
   100% {
-    transform: translate(0, -0px);
+    transform: translate(0, 0px);
   }
 }
 
@@ -63,7 +63,6 @@
   position: absolute;
   width: 50vw;
   height: 50vw;
-  min-width: 350px;
   min-width: 350px;
   top: -128px;
   left: -10vw;
@@ -77,7 +76,6 @@
   position: absolute;
   width: 70vw;
   height: 50vw;
-  min-width: 350px;
   min-width: 250px;
   top: 246px;
   right: -25vw;
@@ -90,12 +88,39 @@
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column-reverse;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .title {
+    padding-top: 30px;
+    font-size: 44px;
   }
 
   .content {
     align-items: center;
+    padding-right: 0;
   }
-  .contactBtn{
-    margin-left: 10px;
+
+  .description {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .heroImg {
+    width: 80%;
+    margin-top: 20px;
+  }
+
+  .contactBtn {
+    margin-left: 0;
+    margin-top: 10px;
+  }
+
+  .topBlur,
+  .bottomBlur {
+    display: none;
+    /* Hide blurs on small screens */
   }
 }
