@@ -10,7 +10,7 @@ export const Hero = () => {
         <h1 className={styles.title}>Hi, I'm Sameer</h1>
         <div className={styles.description}>
           <Typewriter
-            words={['A dedicated Web Developer passionate about building engaging websites. While proficient in web technologies, I am  intend to improve my skills in Data Structures and Algorithms to enhance my problem-solving abilities.']}
+            words={['A dedicated Web Developer passionate about building engaging websites, with a keen interest in Python programming. While proficient in web technologies, I am intent on improving my skills in Data Structures and Algorithms to enhance my problem-solving abilities.']}
             loop={1} // Change this to `0` or `true` for infinite loop
             cursor
             cursorStyle='_'
